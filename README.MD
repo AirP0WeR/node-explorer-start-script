@@ -1,8 +1,6 @@
-# node-explorer-start-script
+# Start node-explorer on ubuntu server
 
-**Script to start node-explorer on ubuntu server**
-
-### Installation
+## Installation
 Werify the latest version of the [node-explorer](https://prometheus.io/download/) installer for Ubuntu.
 Update link on script if needed.
 
